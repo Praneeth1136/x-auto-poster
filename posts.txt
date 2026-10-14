@@ -1,0 +1,36 @@
+Diving deeper into Deep Learning and transformer architectures lately.
+
+The biggest realization when moving from theory to actual implementation: model size gets all the hype, but data preprocessing and attention-masking logic are what actually make or break your training runs.
+
+What are you currently learning or building in AI? Let's connect.
+---
+Nothing beats the feeling of pushing a commit to GitHub and watching the production build go live on @vercel in 30 seconds.
+
+My go-to workflow for shipping web projects fast right now:
+• Keep the initial scope ruthlessly small
+• Lock down OAuth & security settings early
+• Deploy on Day 1 and iterate in public
+
+Shipping a working V1 teaches you more than a month of planning.
+---
+Grinding problems on Codeforces completely changed how I write everyday code.
+
+Before CP: Jump straight into the editor and patch edge cases as they break.
+After CP: Map out constraints, spot the bottleneck, and optimize time complexity on paper before writing a single line.
+
+Anyone else balancing DSA/CP with building full-stack and AI projects? Drop a reply!
+---
+How I use Generative AI in my daily dev workflow without letting it ruin my codebase:
+
+1. Architecture & state management: Designed manually first.
+2. Boilerplate & regex: Handed off to the LLM with strict context.
+3. Debugging: Feed the exact stack trace + isolated function, never the whole repo blindly.
+
+Treat AI like a fast pair-programmer, not a replacement for fundamentals.
+---
+University hackathons vs. solo side projects teach you two completely different skills:
+
+• Hackathons teach you how to cut scope, work under extreme time pressure, and pitch a clear demo.
+• Solo projects teach you clean architecture, deployment pipelines, and long-term maintenance.
+
+Combining both is the fastest way to level up as an engineer. What are you shipping this weekend?
