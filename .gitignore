@@ -21,3 +21,6 @@ env/
 # Logs & test artifacts
 *.log
 .pytest_cache/
+
+# GitGry Security Hygiene
+node_modules/
